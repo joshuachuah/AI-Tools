@@ -1,6 +1,4 @@
-# AI-Tools
-
-# 🤖 AI Tools 2025
+# 🤖 AI Tools Tracker 2025
 
 A comprehensive directory of AI tools across various industries and use cases. This repository serves as a living document to track the evolving AI landscape and help users discover the right tools for their needs.
 
