@@ -215,12 +215,6 @@ If you identify a new field or category not covered, please:
 2. Include at least 3-5 relevant tools
 3. Provide a brief category description
 
----
-
-## 📅 Last Updated
-**January 2025**
-
-*This repository is maintained by the community. Star ⭐ this repo to stay updated with the latest AI tools!*
 
 ---
 
