@@ -22,11 +22,11 @@ A comprehensive directory of AI tools across various industries and use cases. T
 ### Text & Writing
 | Tool | Purpose | Key Features |
 |------|---------|--------------|
-| **ChatGPT** | Conversational AI for writing, brainstorming, and analysis | Natural language understanding, code generation, creative writing |
-| **Claude** | AI assistant for research, writing, and complex reasoning | Long-form content, analysis, coding assistance |
-| **Jasper** | AI copywriting for marketing and business | Brand voice training, marketing templates, SEO optimization |
-| **Copy.ai** | Marketing copy generation | Social media content, email campaigns, ad copy |
-| **Grammarly** | Writing enhancement and grammar checking | Real-time editing, tone detection, plagiarism checking |
+| [**ChatGPT**](https://chatgpt.com/) | Conversational AI for writing, brainstorming, and analysis | Natural language understanding, code generation, creative writing |
+| [**Claude**](https://claude.ai/login?returnTo=%2F%3F) | AI assistant for research, writing, and complex reasoning | Long-form content, analysis, coding assistance |
+| [**Jasper**](https://www.jasper.ai/) | AI copywriting for marketing and business | Brand voice training, marketing templates, SEO optimization |
+| [**Copy.ai**](https://www.copy.ai/) | Marketing copy generation | Social media content, email campaigns, ad copy |
+| [**Grammarly**](https://www.grammarly.com/) | Writing enhancement and grammar checking | Real-time editing, tone detection, plagiarism checking |
 
 ### Video & Audio
 | Tool | Purpose | Key Features |
