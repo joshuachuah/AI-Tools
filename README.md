@@ -31,19 +31,19 @@ A comprehensive directory of AI tools across various industries and use cases. T
 ### Video & Audio
 | Tool | Purpose | Key Features |
 |------|---------|--------------|
-| **RunwayML** | AI video editing and generation | Text-to-video, background removal, style transfer |
-| **Eleven Labs** | AI voice synthesis and cloning | Natural speech generation, voice cloning, multilingual |
-| **Descript** | Audio/video editing with AI transcription | Text-based editing, voice synthesis, screen recording |
-| **Synthesia** | AI avatar video creation | Text-to-video with avatars, multilingual support |
-| **Murf** | AI voiceover generation | Natural voice synthesis, voice customization |
+| [**RunwayML**](https://runwayml.com/) | AI video editing and generation | Text-to-video, background removal, style transfer |
+| [**Eleven Labs**](https://elevenlabs.io/) | AI voice synthesis and cloning | Natural speech generation, voice cloning, multilingual |
+| [**Descript**](https://www.descript.com/) | Audio/video editing with AI transcription | Text-based editing, voice synthesis, screen recording |
+| [**Synthesia**](https://www.synthesia.io/) | AI avatar video creation | Text-to-video with avatars, multilingual support |
+| [**Murf**](https://murf.ai/) | AI voiceover generation | Natural voice synthesis, voice customization |
 
 ### Image Generation
 | Tool | Purpose | Key Features |
 |------|---------|--------------|
-| **DALL-E 3** | Text-to-image generation | High-quality image creation, style control |
-| **Midjourney** | Artistic image generation | Creative imagery, artistic styles, community platform |
-| **Stable Diffusion** | Open-source image generation | Customizable models, local deployment, fine-tuning |
-| **Adobe Firefly** | AI image editing and generation | Integrated with Creative Suite, commercial-safe |
+| [**DALL-E 3**](https://openai.com/index/dall-e-3/) | Text-to-image generation | High-quality image creation, style control |
+| [**Midjourney**](https://www.midjourney.com/home) | Artistic image generation | Creative imagery, artistic styles, community platform |
+| [**Stable Diffusion**](https://stablediffusionweb.com/) | Open-source image generation | Customizable models, local deployment, fine-tuning |
+| [**Adobe Firefly**](https://www.adobe.com/products/firefly.html) | AI image editing and generation | Integrated with Creative Suite, commercial-safe |
 
 ---
 
@@ -52,18 +52,18 @@ A comprehensive directory of AI tools across various industries and use cases. T
 ### Code Generation & Assistance
 | Tool | Purpose | Key Features |
 |------|---------|--------------|
-| **GitHub Copilot** | AI pair programmer | Code completion, function generation, multi-language support |
-| **Cursor** | AI-powered code editor | Context-aware coding, codebase understanding |
-| **Replit Ghostwriter** | AI coding assistant for web IDE | Code completion, debugging, explanation |
-| **Tabnine** | AI code completion | Privacy-focused, on-premise options, team training |
+| [**GitHub Copilot**](https://github.com/features/copilot) | AI pair programmer | Code completion, function generation, multi-language support |
+| [**Cursor**](https://cursor.com/) | AI-powered code editor | Context-aware coding, codebase understanding |
+| [**Replit Ghostwriter**](https://replit.com/@Awesome-Tech/Ghostwriter-or-AI-Code-writer) | AI coding assistant for web IDE | Code completion, debugging, explanation |
+| [**Tabnine**](https://www.tabnine.com/) | AI code completion | Privacy-focused, on-premise options, team training |
 | **Amazon CodeWhisperer** | AI coding companion | AWS integration, security scanning |
 
 ### Development Tools
 | Tool | Purpose | Key Features |
 |------|---------|--------------|
-| **Vercel v0** | AI web development | React component generation, rapid prototyping |
-| **Bolt.new** | Full-stack web app generation | Complete app creation from prompts |
-| **Replit Agent** | AI software development agent | End-to-end app building, deployment |
+| [**Vercel v0**](https://v0.app/) | AI web development | React component generation, rapid prototyping |
+| [**Bolt.new**](https://bolt.new/) | Full-stack web app generation | Complete app creation from prompts |
+| [**Replit Agent**](https://replit.com/) | AI software development agent | End-to-end app building, deployment |
 
 ---
 
