@@ -175,9 +175,9 @@ A comprehensive directory of AI tools across various industries and use cases. T
 ### Chatbots & Support
 | Tool | Purpose | Key Features |
 |------|---------|--------------|
-| **Intercom Fin** | AI customer support | Automated responses, ticket routing |
-| **Zendesk Answer Bot** | Support automation | Knowledge base integration, escalation |
-| **Ada** | AI chatbot platform | Multi-channel support, conversation analytics |
+| [**Intercom Fin**](https://fin.ai/) | AI customer support | Automated responses, ticket routing |
+| [**Zendesk Answer Bot**](https://www.zendesk.com/) | Support automation | Knowledge base integration, escalation |
+| [**Ada**](https://www.ada.cx/) | AI chatbot platform | Multi-channel support, conversation analytics |
 
 ---
 
@@ -186,8 +186,8 @@ A comprehensive directory of AI tools across various industries and use cases. T
 ### Cybersecurity
 | Tool | Purpose | Key Features |
 |------|---------|--------------|
-| **Darktrace** | AI threat detection | Network monitoring, autonomous response |
-| **CrowdStrike Falcon** | Endpoint protection with AI | Behavioral analysis, threat hunting |
+| [**Darktrace**](https://www.darktrace.com/) | AI threat detection | Network monitoring, autonomous response |
+| [**CrowdStrike Falcon**](https://www.crowdstrike.com/en-us/platform/) | Endpoint protection with AI | Behavioral analysis, threat hunting |
 
 ---
 
